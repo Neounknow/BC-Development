@@ -1,2 +1,2 @@
-# BC-Development
-Development with Microsoft Business Central
+# Development with BC
+1. Download [Visual Studio Code](https://code.visualstudio.com/)
